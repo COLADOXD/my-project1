@@ -15,7 +15,7 @@ const Encuesta = () => {
         <p className=" text-white font-sans mb-8">
           Al momento de hacer esta página web, se ha realizado una encuesta al
           personal de la Empresa Estrual, en donde se ha planteado varias
-          preguntas con el propósito si es factible realizar este proyecto.{" "}
+          preguntas con el propósito si es factible realizar este proyecto.
         </p>
       </div>
       <div className="flex flex-row justify-center items-center">

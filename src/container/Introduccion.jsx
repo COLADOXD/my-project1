@@ -43,7 +43,7 @@ const Introduccion = () => {
       <div className="grid grid-cols-2 text-center gap-6 px-36 py-10">
         <div className="">
           <h1 className="font-serif text-3xl text-center my-8 text-red-800">
-            FORMULACION DEL PROBLEMA{" "}
+            FORMULACION DEL PROBLEMA
           </h1>
           <p className="1fr text-white font-sans mx-10 text-left">
             El objetivo de este proyecto trata sobre la creación de una página
@@ -59,7 +59,7 @@ const Introduccion = () => {
         </div>
         <div>
           <h1 className="font-serif text-3xl text-center my-8 text-red-800">
-            JUSTIFICACION{" "}
+            JUSTIFICACION
           </h1>
           <p className="1fr text-white font-sans mx-10 text-left">
             La empresa Estrual debido a que carece de una página web hace que
