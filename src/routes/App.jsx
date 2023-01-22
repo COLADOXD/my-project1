@@ -1,8 +1,10 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Main from "../pages/Main";
+import Main from "../container/Main";
 import Layout from "../container/Layout";
-import Pruebas from "../pages/Pruebas";
+import Encuesta from "../container/Encuesta";
+import MarcoDeReferencia from "../container/MarcoDeReferencia";
+import Introduccion from "../container/Introduccion";
 
 const App = () => {
   return (
@@ -10,7 +12,12 @@ const App = () => {
       <Layout>
         <Routes>
           <Route path="/" element={<Main />}></Route>
-          <Route path="prueba" element={<Pruebas />}></Route>
+          <Route path="/Encuesta" element={<Encuesta />}></Route>
+          <Route
+            path="/MarcoDeReferencia"
+            element={<MarcoDeReferencia />}
+          ></Route>
+          <Route path="/Introduccion" element={<Introduccion />}></Route>
         </Routes>
       </Layout>
     </BrowserRouter>
