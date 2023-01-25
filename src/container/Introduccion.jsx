@@ -76,7 +76,9 @@ const Introduccion = () => {
           </p>
         </div>
       </div>
+
       <div className="flex flex-row items-center my-20  w-full bg-secondary text-center text-white font-serif text-2xl justify-around">
+        <p className="text-8xl mb-10">Integrantes</p>
         <div>
           <img className="h-[130px] rounded-3xl" src={integranteOne} alt="" />
           <p className="my-5">Jhon Godoy</p>
