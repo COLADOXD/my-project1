@@ -14,8 +14,8 @@ const Main = () => {
         <h1 className="text-center text-8xl font-serif text-red-700">
           Resumen
         </h1>
-        <div className="flex flex-row text-white px-10">
-          <div className=" w-2/4 mr-2">
+        <div className="flex flex-row text-white px-10 my-10">
+          <div className=" w-2/4 mr-7">
             El siguiente proyecto se trata sobre la parte de una problemática
             muy común a nivel de empresas, dicha problemática tiene que ver con
             la gestión y difusión de información de los mismos,
@@ -40,18 +40,23 @@ const Main = () => {
             para compartir los cambios realizados desde diferentes máquinas del
             código HTML entre los miembros del equipo.
           </div>
-          <div className=" w-2/4 ml-2">
-            Tema: <br /> -El tema a investigar es sobre la empresa Estrual y los
-            servicios que ofrece, como también en cómo le afecta no tener una
-            página web oficial que automatice sus servicios de forma virtual y
-            concisa. <br /> Problemática: <br /> -No ha tenido una página web,
-            desde el momento en que entró en funcionamiento, por eso se está
-            creando una página web, para poder automatizar los servicios que
-            ofrece la empresa, de forma presencial o no presencial. <br />{" "}
-            Objetivo general: <br />
+          <div className=" w-2/4 ml-7">
+            <span className="text-xl font-bold">Tema:</span> <br /> -El tema a
+            investigar es sobre la empresa Estrual y los servicios que ofrece,
+            como también en cómo le afecta no tener una página web oficial que
+            automatice sus servicios de forma virtual y concisa. <br />
+            <span className="text-xl font-bold">Problemática:</span> <br /> -No
+            ha tenido una página web, desde el momento en que entró en
+            funcionamiento, por eso se está creando una página web, para poder
+            automatizar los servicios que ofrece la empresa, de forma presencial
+            o no presencial. <br />
+            <span className="text-xl font-bold">
+              Objetivo general: <br />
+            </span>
             -Desarrollar una página web informativa para la empresa Estrual
             desarrollada por lenguaje de programación JavaScript para
-            automatizar los servicios de la empresa. <br /> Objetivo específico{" "}
+            automatizar los servicios de la empresa. <br />
+            <span className="text-xl font-bold">Objetivo específico:</span>
             <br />
             -Implementar un servicio automatizado para la empresa. Metodología
             -La página web será desarrollada mediante o siguiendo las bases de

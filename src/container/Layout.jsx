@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
             to="/Introduccion"
             className="text-white font-serif text-xl ml-10"
           >
-            Introduccion
+            Diagnostico
           </Link>
           <Link
             to="/MarcoDeReferencia"
@@ -27,6 +27,9 @@ const Layout = ({ children }) => {
           </Link>
           <Link to="/Encuesta" className="text-white font-serif text-xl mx-10">
             Encuesta
+          </Link>
+          <Link to="/Objetivos" className="text-white font-serif text-xl mr-10">
+            Objetivos
           </Link>
         </div>
       </nav>

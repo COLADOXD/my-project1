@@ -5,6 +5,7 @@ import Layout from "../container/Layout";
 import Encuesta from "../container/Encuesta";
 import MarcoDeReferencia from "../container/MarcoDeReferencia";
 import Introduccion from "../container/Introduccion";
+import Objetivos from "../container/Objetivos";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
             element={<MarcoDeReferencia />}
           ></Route>
           <Route path="/Introduccion" element={<Introduccion />}></Route>
+          <Route path="/Objetivos" element={<Objetivos />}></Route>
         </Routes>
       </Layout>
     </BrowserRouter>
