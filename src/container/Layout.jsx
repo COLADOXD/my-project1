@@ -14,6 +14,13 @@ const Layout = ({ children }) => {
         </div>
         <div className="flex flex-row items-center justify-between">
           <Link
+            to="/Objetivos
+            "
+            className="text-white font-serif text-xl ml-10"
+          >
+            Objetivos
+          </Link>
+          <Link
             to="/Introduccion"
             className="text-white font-serif text-xl ml-10"
           >
@@ -21,15 +28,12 @@ const Layout = ({ children }) => {
           </Link>
           <Link
             to="/MarcoDeReferencia"
-            className="text-white font-serif text-xl ml-10"
+            className="text-white font-serif text-xl mx-10"
           >
             Marco de Referencia
           </Link>
-          <Link to="/Encuesta" className="text-white font-serif text-xl mx-10">
+          <Link to="/Encuesta" className="text-white font-serif text-xl mr-10">
             Encuesta
-          </Link>
-          <Link to="/Objetivos" className="text-white font-serif text-xl mr-10">
-            Objetivos
           </Link>
         </div>
       </nav>

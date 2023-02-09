@@ -16,53 +16,39 @@ const Main = () => {
         </h1>
         <div className="flex flex-row text-white px-10 my-10">
           <div className=" w-2/4 mr-7">
-            El siguiente proyecto se trata sobre la parte de una problemática
-            muy común a nivel de empresas, dicha problemática tiene que ver con
-            la gestión y difusión de información de los mismos,
-            independientemente del tamaño de la empresa, esta trata de
-            mantenerse competitiva y sobre todo mantener un nivel de información
-            que le garantice la recuperación de la inversión y lógicamente una
-            ganancia dentro de los rangos permisibles. La propuesta de solución
-            planteada va a consistir en la creación y la implementación de una
-            Página web con lenguaje de programación JavaScript utilizando
-            también un lenguaje de etiquetas HTML y un lenguaje de estilos CSS,
-            el cual va a ser desarrollado para que la información de la empresa
-            sea más accesible y concisa para los clientes a su vez dando
-            información sobre los productos y servicios que da la empresa. Para
-            esto se ha de comenzar haciendo la estructura de la página usando
-            las herramientas de Visual Studio Code, un programa que se utiliza
-            para la creación de códigos HTML, además de aplicar las reglas de
-            estilo CSS, con la implementación del “media querie” para añadir
-            responsividad a la página, pero para tener una mejor idea de cómo
-            queremos que quede nuestra página web, se utilizará el programa
-            Figma, gracias a este programa podremos diseñar el cómo se verá.
-            También se implementó el uso de GitHub, el cual es un medio usado
-            para compartir los cambios realizados desde diferentes máquinas del
-            código HTML entre los miembros del equipo.
+            RESUMEN El siguiente proyecto se trata sobre una problemática muy
+            común a nivel de empresas, esta problemática tiene que ver con la
+            gestión y difusión de información de los mismos, ya que, sin
+            importar el tamaño de una empresa, estos tratan de mantenerse
+            competitivos y sobre todo mantener un nivel de información que le
+            garantice la recuperación de la inversión y lógicamente una ganancia
+            dentro de los rangos permisibles. La propuesta de solución planteada
+            va a consistir en la creación y la implementación de una Página web
+            con lenguaje de programación JavaScript utilizando también un
+            lenguaje de etiquetas HTML y el lenguaje de estilos CSS, todo esto
+            va a ser desarrollado de una forma en que la información de la
+            empresa sea más accesible y fácil para los clientes a su vez dando
+            información sobre los productos y servicios que ofrece la empresa.
+            Para poder cumplir con ese propósito, se han requerido la
+            utilización de tres herramientas esenciales al momento de crear esta
+            pagina web, estas Herramientas son:
           </div>
           <div className=" w-2/4 ml-7">
-            <span className="text-xl font-bold">Tema:</span> <br /> -El tema a
-            investigar es sobre la empresa Estrual y los servicios que ofrece,
-            como también en cómo le afecta no tener una página web oficial que
-            automatice sus servicios de forma virtual y concisa. <br />
-            <span className="text-xl font-bold">Problemática:</span> <br /> -No
-            ha tenido una página web, desde el momento en que entró en
-            funcionamiento, por eso se está creando una página web, para poder
-            automatizar los servicios que ofrece la empresa, de forma presencial
-            o no presencial. <br />
-            <span className="text-xl font-bold">
-              Objetivo general: <br />
-            </span>
-            -Desarrollar una página web informativa para la empresa Estrual
-            desarrollada por lenguaje de programación JavaScript para
-            automatizar los servicios de la empresa. <br />
-            <span className="text-xl font-bold">Objetivo específico:</span>
+            <span className="text-xl font-bold">Figma:</span> <br /> programa
+            usado principalmente para poder diseñar el como se vera la pagina
+            web, junto con sus componentes, siendo esencial al momento de
+            mostrar el cómo quedaría el diseño de la página web. <br />
+            <span className="text-xl font-bold">Visual Studio Code:</span>
+            <br /> El programa principal en la creación de la página, usada para
+            la creación de códigos HTML y aplicación los estilos CSS es la
+            herramienta mas esencial de todo este trabajo.
             <br />
-            -Implementar un servicio automatizado para la empresa. Metodología
-            -La página web será desarrollada mediante o siguiendo las bases de
-            la metodología scrum. Resultados esperados: -Desarrollar destreza y
-            habilidad mínimas con el lenguaje de programación JavaScript.
-            Palabras clave -Página web, Empresa, Cuenca, Lenguaje JavaScript.
+            <span className="text-xl font-bold">
+              GitHub: <br />
+            </span>
+            una aplicación/pagina usada con la finalidad de compartir los
+            últimos cambios realizados en el código de la página entre los
+            miembros del equipo de trabajo. <br />
           </div>
         </div>
       </div>
