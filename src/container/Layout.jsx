@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
             to="/Introduccion"
             className="text-white font-serif text-xl ml-10"
           >
-            Diagnostico
+            Justificacion y Formulacion
           </Link>
           <Link
             to="/MarcoDeReferencia"

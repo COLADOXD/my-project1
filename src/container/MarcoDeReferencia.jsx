@@ -5,7 +5,7 @@ const MarcoDeReferencia = () => {
   return (
     <section>
       <img className="w-full h-[400px]" src={Ultimo} alt="" />
-      <div className="flex flex-row px-10">
+      {/* <div className="flex flex-row px-10">
         <div className="mx-4">
           <h1 className="font-serif text-3xl text-center my-8 text-red-800">
             MARCO DE REFERENCIA
@@ -53,26 +53,45 @@ const MarcoDeReferencia = () => {
             Figma el programa donde se realizara el diseño del sitio web.
           </p>
         </div>
-      </div>
-      <h1 className="font-serif text-3xl text-center my-8 text-red-800">
-        MARCO TEORICO
+      </div> */}
+      <h1 className="font-serif text-5xl text-center my-8 text-red-800">
+        MARCO
       </h1>
       <div className="flex flex-row px-10">
+        <p className="text-white font-sans mb-8 text-[25px]">
+          Las instituciones empresariales acorde con los años, van evolucionando
+          en el mercado mundial brindando bienes o servicios basados en
+          estándares de calidad internacionales, por ende, necesitan el uso de
+          la tecnología para realizar sus procesos a mayor velocidad y
+          precisión, otorgando esta manera una mejor eficacia en la atención
+          dedicada a sus clientes. Tomando en cuenta esta situación, se elaboró
+          un conjunto de eventos parametrizables en beneficio de la Empresa,
+          procediendo con: la elección de una herramienta de desarrollo óptima
+          para la creación del sistema. Desde el momento en que entro en
+          funcionamiento la empresa no ha visto necesario la creación o
+          implementación de una pagina web, ya que se consideraba innecesario,
+          ya que en Ecuador no se veía la utilidad de tenerlas, eso fue hasta
+          hace poco cuando se dio la pandemia y tuvieron que ser creativos para
+          no estar en la banca rota, eso se logro gracias al uso de las redes
+          sociales, sabiendo esto aceptaron la idea de la creación de esta
+          página con el propósito de dar a conocer sus servicios de una forma
+          más concisa.
+        </p>
         <div className="mx-4 w-1/3">
           <p className=" text-white font-sans mb-8">
-            Internacional -Desarrollo de una aplicación móvil, y rediseño del
+            {/* Internacional -Desarrollo de una aplicación móvil, y rediseño del
             entorno web, de una empresa del sector de la nutrición vegetal.
             ​(Dziamentsyeu, 2016)​ <br /> <br /> ¿Qué hicieron? <br /> Crearon
             una aplicación para móviles, y renovar todo el entorno web actual,
             para adaptar los servicios que ofrece a un sector de población mas
-            dependiente del mundo digital. <br /> <br /> ¿Dónde lo hicieron?{" "}
+            dependiente del mundo digital. <br /> <br /> ¿Dónde lo hicieron?
             <br /> Unidad Politécnica de Valencia, España. <br /> <br /> ¿Cuándo
-            lo hicieron? <br /> 2016-11-08 <br /> <br /> ¿Cómo lo hicieron?{" "}
+            lo hicieron? <br /> 2016-11-08 <br /> <br /> ¿Cómo lo hicieron?
             <br /> Para el desarrollo de la web, se realizaron una serie de
             reuniones, para la exposición del objetivo a conseguir, las
             funcionalidades requeridas, el contenido renovable, futuras
             propuestas, necesidad de adaptación a los nuevos cambios
-            tecnológicos y competencia existente. <br /> <br /> ¿Conclusiones?{" "}
+            tecnológicos y competencia existente. <br /> <br /> ¿Conclusiones?
             <br /> Una vez realizado el proyecto, vimos las carencias de las que
             dispone el diseño, puesto que no es la versión final de la web. Este
             proyecto aún está en el proceso de desarrollo y planificación por
@@ -80,7 +99,7 @@ const MarcoDeReferencia = () => {
             para la tienda de estímulo de la empresa agropecuaria la cuba.​
             (Espinosa, 2016)​ <br /> <br /> ¿Qué hicieron? <br /> Pagina web
             donde se pueda realizar compras por líneas. <br /> <br /> ¿Dónde lo
-            hicieron? <br /> U&C (Universidad & Ciencia) Cuba <br /> <br />{" "}
+            hicieron? <br /> U&C (Universidad & Ciencia) Cuba <br /> <br />
             ¿Cuándo lo hicieron? <br /> 2016-06-02
             <li>
               <br /> <br /> ¿Cómo lo hicieron? <br /> Para el desarrollo del
@@ -106,7 +125,7 @@ const MarcoDeReferencia = () => {
             para la tienda de estímulo evaluándose la calidad del mismo por el
             cliente, mitigando las dificultades e insuficiencias en el proceso
             de venta. Nacional -Diseño y aplicación de sistema de gestión en
-            Inventarios en empresa ecuatoriana. ​(Antonio, 2016)​ <br /> <br />{" "}
+            Inventarios en empresa ecuatoriana. ​(Antonio, 2016)​ <br /> <br />
             ¿Qué hicieron? <br /> Se precisa declarar el enfoque investigativo,
             y el tipo de investigación desarrollada es del tipo descriptiva,
             unida a la investigación de campo. La investigación de campo permite
@@ -123,7 +142,7 @@ const MarcoDeReferencia = () => {
         <div className="mx-4 w-1/3">
           <p className=" text-white font-sans mb-8">
             ¿Dónde lo hicieron? <br /> Centro de información y gestión
-            tecnológica de Holguín, Ecuador <br /> <br /> ¿Cuándo lo hicieron?{" "}
+            tecnológica de Holguín, Ecuador <br /> <br /> ¿Cuándo lo hicieron?
             <br /> 2016-06-24 <br /> <br /> ¿Cómo lo hicieron? <br />
             La base de toda organización es el control de los bienes que entran
             y salen; de aquí la importancia del manejo del inventario bien
@@ -135,7 +154,7 @@ const MarcoDeReferencia = () => {
             aparato circulatorio de una institución. La pertinencia de esta
             investigación reside en proveer a empresas, -sean estas privadas o
             estatales-, de herramientas de control de inventarios informatizadas
-            a la medida de las necesidades. <br /> <br /> ¿Conclusiones? <br />{" "}
+            a la medida de las necesidades. <br /> <br /> ¿Conclusiones? <br />
             Es diseñado sistema de control de inventarios, a través de la
             ejemplificación para justificar su ejecución. Diseño y aplicación de
             sistema de gestión en Inventarios en empresa ecuatoriana Ciencias
@@ -148,7 +167,7 @@ const MarcoDeReferencia = () => {
             control de inventarios -Desarrollo e implantación del sistema de
             administración de clientes, proveedores, productos y gestión de
             contratos para empresa intermediaria de productos químicos, Quito
-            Ecuador ​(Bénítez Aguilar, 2013)​ <br /> <br /> ¿Qué hicieron?{" "}
+            Ecuador ​(Bénítez Aguilar, 2013)​ <br /> <br /> ¿Qué hicieron?
             <br /> El Extreme Programming es una metodología con enfoque de
             ingeniería de software, con el propósito de optimizar y mejorar los
             procesos de desarrollo de programas. Esta metodología nació debido a
@@ -172,7 +191,7 @@ const MarcoDeReferencia = () => {
             interpretados por el mismo servidor y que se envían al cliente en un
             formato comprensible para éste. Por otro lado, los lenguajes de lado
             del cliente son aquellos que son interpretados directamente por el
-            navegador por lo que pueden ser incluidos en el código HTML. <br />{" "}
+            navegador por lo que pueden ser incluidos en el código HTML. <br />
             <br /> ¿Conclusiones? <br /> En la actualidad las aplicaciones web
             se han constituido como uno de los principales estándares de
             desarrollo de todos los países, e influyen directamente en la
@@ -189,7 +208,7 @@ const MarcoDeReferencia = () => {
           <p className=" text-white font-sans mb-8">
             -Desarrollo de un sistema en entorno web para el control de la
             gestión del inventario de la Empresa Cuenca Llantas, utilizando como
-            framework de Desarrollo Laravel. ​(Guevara Zambrano, 2017)​ <br />{" "}
+            framework de Desarrollo Laravel. ​(Guevara Zambrano, 2017)​ <br />
             <br /> ¿Qué hicieron? <br /> Contando la empresa con los recursos
             tecnológicos, operativos y económicos se hizo factible la ejecución
             del presente proyecto, proporcionando al usuario final una interfaz
@@ -213,7 +232,7 @@ const MarcoDeReferencia = () => {
             tiempo real, dar información a clientes de los precios de ventas
             actuales con los que cuenta la empresa y cantidades existentes de
             los artículos para la venta, optimizando el tiempo de atención y
-            mejorando así el nivel de satisfacción del mismo. <br /> <br />{" "}
+            mejorando así el nivel de satisfacción del mismo. <br /> <br />
             ¿Conclusiones? <br /> Se identificaron las necesidades de la empresa
             en el control del inventario a través del análisis de sus procesos,
             eliminando procesos redundantes que se realizaban de forma manual
@@ -225,7 +244,7 @@ const MarcoDeReferencia = () => {
             identificado en cada uno de los valores que se registran por medio
             de la aplicación. -Diseno de una red wan de datos, telefonía IP y
             página de servicios de intranet para la distribuidora farmacéutica
-            Cuenca Yépez. ​(Pupiales León, 2008)​ <br /> <br /> ¿Qué hicieron?{" "}
+            Cuenca Yépez. ​(Pupiales León, 2008)​ <br /> <br /> ¿Qué hicieron?
             <br /> Se presenta el diseño WAN para la red de una empresa, basado
             en un modelo preestablecido. Se realiza el diseño de Telefonía IP
             mediante el uso de Asterisk y se desarrolla la página de Intranet.
@@ -236,7 +255,7 @@ const MarcoDeReferencia = () => {
             ella, tales como H.323 y SIP. Contiene los conceptos básicos para un
             diseño de página Web y la descripción de diferente software para el
             diseño Web. <br /> <br /> ¿Dónde lo hicieron? Escuela Politécnica
-            Nacional, Ecuador <br /> <br /> ¿Cuándo lo hicieron? 2008-10-21{" "}
+            Nacional, Ecuador <br /> <br /> ¿Cuándo lo hicieron? 2008-10-21
             <br /> <br /> ¿Cómo lo hicieron? El presente trabajo, se ha
             desarrollado con la finalidad de brindar mayor productividad a los
             usuarios de la Distribuidora Farmacéutica Cuenca Yépez, es decir,
@@ -249,7 +268,7 @@ const MarcoDeReferencia = () => {
             ancho de banda y retardo. El softphone a ser utilizado debe estar en
             capacidad de soportar el códec especificado en las cuentas SIP
             configuradas dentro de la central de telefonía IP, y debe ser
-            compatible con el Sistema Operativo con el cual se esté trabajando.
+            compatible con el Sistema Operativo con el cual se esté trabajando. */}
           </p>
         </div>
       </div>

@@ -8,11 +8,11 @@ import Quinto from "../assets/5img.jpg";
 const Encuesta = () => {
   return (
     <section className="flex flex-col justify-center items-center">
-      <div className=" w-[400px] flex flex-col  text-center">
+      <div className=" w-[800px] flex flex-col  text-center">
         <h1 className="font-serif text-3xl text-center my-8 text-red-800">
           Encuesta
         </h1>
-        <p className=" text-white font-sans mb-8">
+        <p className=" text-white font-sans mb-8 text-[25px]">
           Al momento de hacer esta página web, se ha realizado una encuesta al
           personal de la Empresa Estrual, en donde se ha planteado varias
           preguntas con el propósito si es factible realizar este proyecto.
