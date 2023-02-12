@@ -12,7 +12,15 @@ const Layout = ({ children }) => {
             Piensa
           </Link>
         </div>
+
         <div className="flex flex-row items-center justify-between">
+          <a
+            href="https://docs.google.com/document/d/1-g9PbymCe98ZvNeiMVx333H4eeqYA3Zc/edit?usp=sharing&ouid=100201763253693451289&rtpof=true&sd=true 
+            "
+            className="text-quinto font-serif text-xl ml-10"
+          >
+            .
+          </a>
           <Link
             to="/Objetivos
             "
@@ -27,10 +35,16 @@ const Layout = ({ children }) => {
             Justificacion y Formulacion
           </Link>
           <Link
+            to="/Metodologial"
+            className="text-white font-serif text-xl ml-10"
+          >
+            Metodologia y Propuesta
+          </Link>
+          <Link
             to="/MarcoDeReferencia"
             className="text-white font-serif text-xl mx-10"
           >
-            Marco de Referencia
+            Marco
           </Link>
           <Link to="/Encuesta" className="text-white font-serif text-xl mr-10">
             Encuesta

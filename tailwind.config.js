@@ -17,7 +17,7 @@ module.exports = {
 
         cuarto: "#1b212d",
 
-        quinto: "rgba(20,21,25,255)",
+        quinto: "#151c2e",
       }),
       backgroundColor: (theme) => ({
         ...theme("colors"),
