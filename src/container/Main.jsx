@@ -71,6 +71,13 @@ const Main = () => {
           <p className="my-5 text-center">Mateo Chacon</p>
         </div>
       </div>
+
+      <a
+        className="text-white text-3xl text-center flex justify-center items-center"
+        href="https://pagina-estrual-version-2.vercel.app/"
+      >
+        Link De La Pagina
+      </a>
       <div className="text-white h-15 w-[100px] text-center bg-primary flex justify-end items-end">
         <a href="https://pagina-de-link-de-imagenes.vercel.app/">
           Insertar Imagen
