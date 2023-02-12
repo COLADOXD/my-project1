@@ -71,6 +71,11 @@ const Main = () => {
           <p className="my-5 text-center">Mateo Chacon</p>
         </div>
       </div>
+      <div className="text-white h-15 w-[100px] text-center bg-primary flex justify-end items-end">
+        <a href="https://pagina-de-link-de-imagenes.vercel.app/">
+          Insertar Imagen
+        </a>
+      </div>
     </section>
   );
 };
