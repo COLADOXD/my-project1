@@ -1,10 +1,10 @@
 import React from "react";
 
-const Metodologia = () => {
+const Propuesta = () => {
   return (
     <section className="h-full bg-secundary">
       <h1 className="font-serif text-3xl text-center my-8 text-red-800">
-        Metodologia
+        Propuesta
       </h1>
       <div className="flex flex-row mb-10">
         <p className="w-2/4 text-white font-sans mx-10 text-left text-[25px]">
@@ -38,4 +38,4 @@ const Metodologia = () => {
   );
 };
 
-export default Metodologia;
+export default Propuesta;
