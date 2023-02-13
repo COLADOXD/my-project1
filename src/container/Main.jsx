@@ -16,22 +16,22 @@ const Main = () => {
         </h1>
         <div className="flex flex-row text-white px-10 my-10">
           <div className=" w-2/4 mr-7 text-[25px]">
-            RESUMEN El siguiente proyecto se trata sobre una problemática muy
-            común a nivel de empresas, esta problemática tiene que ver con la
-            gestión y difusión de información de los mismos, ya que, sin
-            importar el tamaño de una empresa, estos tratan de mantenerse
-            competitivos y sobre todo mantener un nivel de información que le
-            garantice la recuperación de la inversión y lógicamente una ganancia
-            dentro de los rangos permisibles. <br /> La propuesta de solución
-            planteada va a consistir en la creación y la implementación de una
-            Página web con lenguaje de programación JavaScript utilizando
-            también un lenguaje de etiquetas HTML y el lenguaje de estilos CSS,
-            todo esto va a ser desarrollado de una forma en que la información
-            de la empresa sea más accesible y fácil para los clientes a su vez
-            dando información sobre los productos y servicios que ofrece la
-            empresa. <br /> Para poder cumplir con ese propósito, se han
-            requerido la utilización de tres herramientas esenciales al momento
-            de crear esta pagina web, estas Herramientas son:
+            El siguiente proyecto se trata sobre una problemática muy común a
+            nivel de empresas, esta problemática tiene que ver con la gestión y
+            difusión de información de los mismos, ya que, sin importar el
+            tamaño de una empresa, estos tratan de mantenerse competitivos y
+            sobre todo mantener un nivel de información que le garantice la
+            recuperación de la inversión y lógicamente una ganancia dentro de
+            los rangos permisibles. <br /> La propuesta de solución planteada va
+            a consistir en la creación y la implementación de una Página web con
+            lenguaje de programación JavaScript utilizando también un lenguaje
+            de etiquetas HTML y el lenguaje de estilos CSS, todo esto va a ser
+            desarrollado de una forma en que la información de la empresa sea
+            más accesible y fácil para los clientes a su vez dando información
+            sobre los productos y servicios que ofrece la empresa. <br /> Para
+            poder cumplir con ese propósito, se han requerido la utilización de
+            tres herramientas esenciales al momento de crear esta pagina web,
+            estas Herramientas son:
           </div>
           <div className=" w-2/4 ml-7 text-[25px]">
             <span className=" font-bold">Figma:</span> <br /> programa usado
