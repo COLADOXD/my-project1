@@ -22,19 +22,19 @@ const Introduccion = () => {
           Formulacion del problema
         </h1>
         <p className="w-full text-[25px]">
-          El objetivo de este proyecto trata sobre la creación de una página web
-          informativa empresarial Estrual, como una forma de automatizar los
-          servicios de esta empresa ofrece a la clientela, ya que desde el
-          momento de su fundación la empresa no ha visto la necesidad de la
-          creación de un sitio web, ya que lo ha visto como innecesaria a la vez
-          de un gasto de presupuesto para tan solo mantenerla en funcionamiento.
-          En la actualidad han tenido problemas con la falta de empleo por la
-          cuarentena, problemas que otras empresas similares no tuvieron, ya que
-          contaban ya con una página web. Por lo tanto, han optado por la
-          creación de su propia página web, que es donde por se pondrán los
-          servicios que la empresa tiene para ofrecer, ya sean el de
-          mantenimiento, instalación o fabricación de productos de aluminio y
-          vidrios.
+          Desde el momento de su fundación la empresa no ha visto la necesidad
+          de la creación de un sitio web, pues pensaron que era innecesario a la
+          vez un gasto de presupuesto mandar a crear la pagina y mantenerla en
+          funcionamiento.
+          <br />
+          Eso fue hasta la cuarentena, desde que comenzó la pandemia, notaron
+          una gran disminución de demanda por parte de sus clientes, además de
+          enterarse que su clientela prefirió contratar los servicios de otras
+          empresas gracias a los sitios web de estos mismo.
+          <br />
+          Por ello optaron por la creación de su propia pagina web, donde se
+          pondrá los servicios que la empresa ofrece, siendo estos:
+          Mantenimiento, Instalación o Fabricación de varios productos.
         </p>
       </div>
       <div className="flex flex-row mb-10">
